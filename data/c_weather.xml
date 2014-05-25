@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentWeather>
+  <Location>Jakarta / Soekarno-Hatta, Indonesia (WIII) 06-07S 106-39E 8M</Location>
+  <Time>May 25, 2014 - 04:30 PM EDT / 2014.05.25 2030 UTC</Time>
+  <Wind> from the SSE (160 degrees) at 5 MPH (4 KT):0</Wind>
+  <Visibility> 3 mile(s):0</Visibility>
+  <SkyConditions> mostly clear</SkyConditions>
+  <Temperature> 78 F (26 C)</Temperature>
+  <DewPoint> 75 F (24 C)</DewPoint>
+  <RelativeHumidity> 88%</RelativeHumidity>
+  <Pressure> 29.80 in. Hg (1009 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>

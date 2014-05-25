@@ -1,0 +1,20 @@
+<StockQuotes>
+	<Stock>
+		<Symbol>TLK</Symbol>
+		<Last>43.75</Last>
+		<Date>5/23/2014</Date>
+		<Time>4:03pm</Time>
+		<Change>+0.12</Change>
+		<Open>43.53</Open>
+		<High>43.82</High>
+		<Low>43.42</Low>
+		<Volume>184449</Volume>
+		<MktCap>21.241B</MktCap>
+		<PreviousClose>43.63</PreviousClose>
+		<PercentageChange>+0.28%</PercentageChange>
+		<AnnRange>33.75 - 50.16</AnnRange>
+		<Earns>2.60</Earns>
+		<P-E>16.78</P-E>
+		<Name>PT Telekomunikasi</Name>
+	</Stock>
+</StockQuotes>
